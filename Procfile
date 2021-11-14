@@ -1,1 +1,1 @@
-web: node . --server
+web: node . --server --db 'https://database.webwan.repl.co'
